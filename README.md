@@ -19,4 +19,7 @@ Amazon SageMaker Feature Store: É um repositório centralizado para armazenar e
 Amazon Lex: Servico que permire criar chabot inteligentes e assistentes virtuais usando NLP e reconhecimento de voz.
 Amazon Polly: Converte texto em audio.
 AWS Glue: Extrair, Transformar e carregar dados (ETL).
-Amazon Personalize: 
+Amazon Glue DataBrew: Ser qeu visuliza, limpa e transforma dados de forma interativa sem escrever codigo.
+Amazon Personalize: Servico de IA para criar sistemas de recomnedacao personalizada usa ML sem preicsa dem expetise em IA.
+AWS Lake Formation: Servico que permite criar, gerencair e proteger data lakes.
+Amazon Redshift: Armazear, analisar grande volumes de dados.
