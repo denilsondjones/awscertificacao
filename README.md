@@ -23,3 +23,8 @@ Amazon Glue DataBrew: Ser qeu visuliza, limpa e transforma dados de forma intera
 Amazon Personalize: Servico de IA para criar sistemas de recomnedacao personalizada usa ML sem preicsa dem expetise em IA.
 AWS Lake Formation: Servico que permite criar, gerencair e proteger data lakes.
 Amazon Redshift: Armazear, analisar grande volumes de dados.
+Amazon QuickSight: Servico de BI para criar, gerenciar dashboards interativos em tempo real.
+Amazon QUickSight Q: Recurso do quickSight que permite consulta dados em linguagem natural recebndo rspostas automaticas em forma visual.
+AWS DeepRacer: Plataforma prática para aprender ML e reforco progrmado para carros autônomos simulados ou fisicos.
+Amazon Fraud Detector: Service que permite identificar atividades fraudulentas automaticamente, fraude em pagamentos, contas falsas.
+Amazon Augmented AI: Inserir revisão humana em processos de IA. 
